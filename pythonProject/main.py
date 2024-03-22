@@ -61,7 +61,7 @@ def run():
         info = wikipedia.summary(person,5)
         talk(info)
     elif 'are you single' in text:
-       talk("sorry i am in a relationship with wifi")
+       talk("sorry i am in a relationship with K1NG")
     elif 'who are you' in text:
         talk("my name is vexi i am a virtual assistant made by K1NG")
     else:
